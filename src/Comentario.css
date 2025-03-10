@@ -1,0 +1,19 @@
+.container {
+    /* border-bottom: 1px solid #000000;  */
+    gap: 223px;
+    padding-left: 50px;
+    display: flex;
+    font-family: Roboto Light;
+    color:#807f7f;
+}
+
+.h6Comentario {
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    font-size: small;
+}
+
+.linha {
+   width: 620px;
+   border: 1px solid #dfdfdf;
+}

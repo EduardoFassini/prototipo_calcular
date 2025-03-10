@@ -1,0 +1,32 @@
+ .headerCabecalho {
+     background-color: #edf0f4;
+     color: rgb(74, 71, 71);
+     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+     background: white;
+     padding: 10px 10px 10px 10px;
+     display: flex;
+     align-items: center;
+     border-bottom: 1px solid #ddd;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+     padding-right: 20px;
+ }
+
+ .h5Cab {
+     font-size: 1rem;
+     font-weight: 100;
+     font-family: sans-serif;
+     color: #828181;
+     text-align: center;
+     display: flex;
+     justify-content: flex-end;
+     margin-left: 50px;
+     padding-left: 10px;
+     border-style: solid; 
+     border-color: #4a474700 #4a474700 #4a474700 #a29d9d82;
+ }  
+
+ .h6Cab{
+    margin-left: auto;
+    font-family: sans-serif;
+    color: #9a9999;
+ }

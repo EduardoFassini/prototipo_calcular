@@ -22,7 +22,11 @@
      margin-left: 50px;
      padding-left: 10px;
      border-style: solid; 
-     border-color: #4a474700 #4a474700 #4a474700 #a29d9d82;
+     border-color: #4a474700 #4a474700 #4a474700 #d3d0d082;
+     border-block: 0px;
+     height: 30px;
+     align-items: center;
+     border-width: 2px;
  }  
 
  .h6Cab{

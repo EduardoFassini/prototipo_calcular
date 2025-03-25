@@ -23,7 +23,7 @@ function App() {
           <p>matemática, inclusive as quatro operações soma, subtração, multiplicação e </p>
           <p>divisão. Qualquer dificuldade que a criança tenha nessa fase se refletirá por toda</p>
           <p> a sua vida escolar :(</p>
-          <div style={{height:"25px"}}></div>
+          <div style={{height:"15px"}}></div>
           <p>Aqui você e seu filho irão encontrar exercícios relacionados ao conteúdo ensinado </p>
           <p>nós primeiros anos escolares e buscara aperfeiçoar seu conhecimento nas </p>
           <p>operações básicas;</p>
@@ -40,12 +40,13 @@ function App() {
           <p>jornada! </p>
           <p>Aqui, você encontra exercícios divertidos e educativos para ajudar seu filho a </p>
           <p>dominar as operações básicas e desenvolver confiança na matemática. </p>
+          <div style={{height:"15px"}}></div>
           <p>Vamos juntos fortalecer essa base e transformar desafios em conquistas! </p>
-          <p>Matemática ParaCrianças #Educação Matemática #OperaçõesBásicas </p>
-          <p>AprendizadoDivertido #Fundamentos Escolares #MatemáticaFácil </p>
-          <p>#ConfiançaNos Números</p>
+          <p>#MatemáticaParaCrianças #EducaçãoMatemática #OperaçõesBásicas </p>
+          <p>AprendizadoDivertido #FundamentosEscolares #MatemáticaFácil </p>
+          <p>#ConfiançaNosNúmeros</p>
         </div>
-        <div style={{ backgroundColor: "rgba(115, 70, 188, 0.94)", width:'60%', height: 1250 }}> </div>
+        <div style={{ backgroundColor: "rgba(115, 70, 188, 0.94)", width:'60%', height: 1300 }}> </div>
       </section>
     </body>
   );

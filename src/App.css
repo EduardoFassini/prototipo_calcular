@@ -1,4 +1,73 @@
 p {
     font-family: sans-serif;
-    color: #464545;
+    color: #4c4c4c;
 } 
+
+.pontuacao {
+    font-family: 'roboto';
+    text-align: center;
+}
+
+.calcular {  
+    color: aliceblue;
+}
+
+body {
+    margin: 0;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: roboto;
+}
+
+button.btn{
+  border: none;
+  cursor: pointer;
+  margin: 10px auto;
+  font-size: 1em;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  width: 300px;
+  font-family: roboto;
+  transition: transform 0.2s, box-shadow 0.2s;  
+}
+ 
+
+button.btn.sortear{
+  background-color: #4938e0; 
+}
+
+.numeros {
+  background-color: #9936d2;
+  border-radius: 10px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: roboto;
+}
+
+.resposta{
+    background-color: #9936d2; 
+    border: none;
+    border-radius: 10px; 
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 1em;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+button.btn.confirmar{
+  background-color: #479f36;
+}
+
+button.btn.novoJogo{
+    background-color: #b64545;
+}
